@@ -1,23 +1,38 @@
-Добрый день!
-Меня зовут Юлия Ефанова и я Инженер по тестированию.
+# Hey, I'm Julia Efanova 👋
+### 🚀 Senior QA Engineer + Java Automation
 
-Опыт в предметной области: 
-Тестировала сервис онлайн-бухгалтерии и систему BPM для бухгалтерского аутсорсинга. Для работы с технологичными банковскими сервисами мой опыт может пригодиться.
+I am a QA Engineer with 6 years of experience in functional 
+and integration testing, combined with hands-on practice in test automation.
 
-Функциональное тестирование: 
-6 лет занимаюсь функциональным и исследовательским тестированием веб-сервисов. Владею техниками тех-дизайн.
+### 🛠️ Core Competencies
+•	**Domain Expertise:** 
+I have a solid track record in testing complex process-driven systems, 
+including an online accounting service, a BPM platform for accounting outsourcing, 
+and CRM system.
+•	**Functional Testing & Test Design:** 
+For 6 years, I have focused on functional and integration testing of web services. 
+I am well-versed in test design techniques and have extensive experience creating 
+and maintaining test documentation and specifications.
+•	**Technical Stack & Automation:**
+I have run regression suites in TeamCity, validated data using MySQL and PostgreSQL, 
+and tested APIs via Postman, Swagger, and SoapUI. I am comfortable using Git 
+and Linux/Bash for daily tasks. To isolate defects, I regularly analyze logs in Kibana 
+and check Kafka events through AKHQ. Additionally, 
+I have foundational, practical experience with basic Docker workflows, 
+including building images, running containers in Docker Desktop, 
+and utilizing Docker Hub.
+•	**Agile/Scrum Collaboration:**
+I am a proactive team player with proven experience collaborating 
+within a 10-person development team, actively participating in sprint planning, 
+estimations, and retrospectives.
 
-Автотесты и технический стек: 
-1,5 года занималась автоматизацией тестирования на Java. 
-Проводила регресс в Teamcity, работала с базами данных на SQL и тестировала API в Postman и Swagger. 
-Работала с системой контроля версий Git.
+### 🤝 Let's work together!
+I am currently open to new career opportunities and ready to contribute to your engineering team. 
+Let's connect!
 
-Опыт в Agile/Scrum: 
-Принимала участие в планировании, оценке задач и ретроспективах в команде разработки из 10 человек. 
-
-Меня воодушевляет возможностью влиять на качество цифрового продукта на этапе разработки. 
- 
-Буду рада обсудить мой опыт и ваши потребности на собеседовании.
-
-С уважением, Юлия Ефанова 
-8 (927) 382-17-49, efanova.julia@mail.ru, https://t.me/realmish
+### 📫 How to reach me:
+Best regards, 
+Efanova Julia
+* **Phone:** [+7 (927) 382-17-49](tel:+79273821749)
+* **Email:** [efanova.julia@mail.ru](mailto:efanova.julia@mail.ru)
+* **Telegram:** [@realmish](https://t.me)
